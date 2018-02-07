@@ -3,3 +3,7 @@
  * Copyright mfbproject.co.za - muzi@mfbproject.co.za
  * Copyright zulucoda - mfbproject
  */
+
+import { combineReducers } from 'redux';
+
+export default combineReducers({});
